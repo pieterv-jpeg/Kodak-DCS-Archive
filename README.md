@@ -15,7 +15,7 @@ Nikon lenses:
 - [AF Nikkor 20mm f/2.8D](https://www.nikon.co.uk/en_GB/Disc/discontinued/af-nikkor-20mm-f2.8d)
 - [AF Nikkor 35mm f/2.0D](https://www.nikonusa.com/p/af-nikkor-35mm-f2d-refurbished/1923B/overview)
 - [AF Nikkor 50mm f/1.8D](https://www.nikon.co.uk/en_GB/product/lenses/dslr/af-nikkor-50mm-f1.8d)
-- [AF Nikkor 85mm f/1.8D](https://www.nikonusa.com/p/af-nikkor-85mm-f18d-refurbished/1931B/overview)
+- [Ai AF Nikkor 85mm F1.4D (IF)](https://imaging.nikon.com/imaging/information/story/0041/index.html)
 
 ## Copyright Notice
 This repository preserves historical Kodak DCS software and documentation for archival, research and interoperability purposes.
